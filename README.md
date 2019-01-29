@@ -5,4 +5,6 @@
 
 ## Problems
 * Geometry
-    - [x] ] Pythagorean Triple Generator
+    - [x] Pythagorean Triple Generator
+* Sorting
+    - [x] Quicksort
